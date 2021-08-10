@@ -29,7 +29,7 @@ if(!$consulta){
 						  <tr>
 							<th>#</th>
 							<th>Nombre</th>
-							<th colspan="2">Opciones</th>
+							<th colspan="2">Opc</th>
 						  </tr>
 						<?php foreach ($consulta as $Sql): ?>
 						<tr>
